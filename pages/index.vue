@@ -53,7 +53,14 @@ export default {};
   padding-bottom: 15px;
 }
 
-.links {
-  padding-top: 15px;
+export default {
+  name: 'LandingPage',
+  components: {
+    hero: Hero,
+    features: Features,
+    teasers: Teasers,
+    prices: Prices,
+    'faq': Faq
+  }
 }
-</style>
+</script>
