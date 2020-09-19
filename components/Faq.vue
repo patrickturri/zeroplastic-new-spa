@@ -1,8 +1,8 @@
 <template>
-<!-- <div>
+  <!-- <div id="faqs">
     <img src="~assets/img/wave-top.svg?inline" alt />
     <faq-content />
-</div>-->
+</div> -->
 <!-- component -->
 <!-- <div>
     <section class="text-gray-700">
