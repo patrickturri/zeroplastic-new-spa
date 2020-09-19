@@ -4,7 +4,7 @@
       <h3 class="text-5xl text-gray-800 font-bold leading-none mb-3">
         {{ headline }}
       </h3>
-      <p class="text-gray-600 b-8 mb-8">
+      <p class="text-gray-600 b-8 mb-8 text-base">
         {{ content }}
         <br />
       </p>
