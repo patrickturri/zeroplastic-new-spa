@@ -21,24 +21,36 @@
             class="flex flex-col w-full md:w-4/5 justify-center items-start text-center md:text-left mt-20"
         >
             <ol class="text-black">
-                <li class="leading-normal text-4xl mb-20  flex flex-row">
-                    <span
-                        class="rounded-full w-12 h-12 flex items-center justify-center mr-20 border-2 border-black">
-                    1</span>
-                    <div class="self-center">Make your brand plastic free</div>
+                <li class="leading-normal text-4xl mb-20 flex flex-col">
+                    <div class="flex flex-row">
+                        <span
+                            class="rounded-full w-12 h-12 flex items-center justify-center mr-20 border-2 border-black">
+                        1</span>
+                        <div class="self-center">Make your brand plastic free</div>
+                    </div>
+                    <bar-chart class='leading-normal'/>
                 </li>
-                <li class="leading-normal text-4xl mb-20 flex flex-row">
-                    <span 
-                        class="rounded-full w-12 h-12 flex items-center justify-center mr-20 border-2 border-black">
-                    2</span>
-                    <div class="self-center">As a community, earn money while improving your green status</div>
+                <li class="leading-normal text-4xl mb-20 flex flex-col">
+                    <div class="flex flex-row">
+                        <span 
+                            class="rounded-full w-12 h-12 flex items-center justify-center mr-20 border-2 border-black">
+                        2</span>
+                        <div class="self-center">As a community, earn money while improving your green status</div>
+                    </div>
                     
                 </li>
-                <li class="leading-normal text-4xl mb-20 flex flex-row">
-                    <span 
-                        class="rounded-full w-12 h-12 flex items-center justify-center mr-20 border-2 border-black">
-                    3</span>
-                    <div class="self-center">Let's clean the world together!</div>
+                <li class="leading-normal text-4xl mb-20 flex flex-col">
+                    <div class="flex flex-row">
+                        <span 
+                            class="rounded-full w-12 h-12 flex items-center justify-center mr-20 border-2 border-black">
+                        3</span>
+                        <div class="self-center">Let's clean the world together!</div>
+                    </div>
+                    <div class="leading-normal flex flex-row m-10">
+                        <img src='~/assets/img/plastic_1.jpg' class='w-1/3 m-5'/>
+                        <img src='~/assets/img/plastic_2.jpg' class='w-1/3 m-5'/>
+                        <img src='~/assets/img/plastic_3.jpg' class='w-1/3 m-5'/>
+                    </div>
                     
                 </li>
             </ol>
@@ -49,8 +61,14 @@
 </template>
 
 <script>
+
+import BarChart from '@/components/BarChart'
+
 export default {
-  name: 'Abstract'
+  name: 'Abstract',
+  components: {
+    'bar-chart': BarChart
+  }
 }
 </script>
 
