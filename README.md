@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ZeroPlastic
 
 ## Build Setup
@@ -19,7 +18,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-=======
-# zeroplastic-spa
-ZeroPlastic --- 0️⃣➕✅
->>>>>>> 58ee7ebbfd8c96205c973ab1ea6f4548c39d9d4b
