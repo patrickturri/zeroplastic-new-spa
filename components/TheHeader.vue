@@ -24,26 +24,26 @@
 
       <div
         :class="navContentClassList"
-        class="w-full flex-grow lg:flex lg:items-center lg:w-auto lg:block mt-2 lg:mt-0 bg-white lg:bg-transparent text-black p-4 lg:p-0 z-20"
+        class="w-full flex-grow lg:flex lg:items-center lg:w-auto lg:block mt-2 lg:mt-0 bg-white lg:bg-transparent text-white p-4 lg:p-0 z-20"
       >
         <ul class="list-reset lg:flex justify-end flex-1 items-center">
           <li class="mr-3">
             <a
-              class="inline-block py-2 px-4 text-black font-bold no-underline"
-              href="#home"
+              class="inline-block py-2 px-4 font-bold no-underline text-black"
+              href="#"
               >Home</a
             >
           </li>
           <li class="mr-3">
             <a
-              class="inline-block py-2 px-4 text-black font-bold no-underline"
+              class="inline-block py-2 px-4 font-bold no-underline text-black"
               href="#how_works"
               >How does it work</a
             >
           </li>
           <li class="mr-3">
             <a
-              class="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4"
+              class="inline-block py-2 px-4 font-bold no-underline text-black"
               href="#faqs"
               >FAQ</a
             >

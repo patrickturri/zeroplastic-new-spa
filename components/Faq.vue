@@ -88,7 +88,7 @@
     </section>
 </div>-->
 <body class="bg-gray-100 font-display">
-  <div class>
+  <div id="faqs">
     <div>
       <div class="mt-8 opacity-75">
         <svg
