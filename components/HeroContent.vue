@@ -15,11 +15,13 @@
           Over 300 million tons of plastics are produced every year. Here we present the solution to avoid being overwhelmed by all of this.
         </p>
 
+        <a href="#abstract">
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg"
         >
           Begin the journey
-        </button>
+        </button> 
+        </a>
       </div>
       <!--Right Col-->
       <div class="w-full md:w-3/5 py-6 text-center">

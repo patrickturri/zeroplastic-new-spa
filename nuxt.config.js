@@ -4,7 +4,7 @@ export default {
 	 ** Headers of the page
 	 */
 	head: {
-		title: process.env.npm_package_name || '',
+		title: 'ZeroPlastick',
 		meta: [
 			{ charset: 'utf-8' },
 			{ name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -19,7 +19,7 @@ export default {
 			{
 				src: "https://code.jquery.com/jquery-3.2.1.min.js",
 				type: "text/javascript"
-			},
+			}
 		]
 	},
 	/*
