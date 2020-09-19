@@ -10,12 +10,12 @@
 </template>
 
 <script>
-import Logo from '@/components/Logo'
+import Logo from "@/components/Logo";
 
 export default {
-  name: 'TheFooter',
+  name: "TheFooter",
   components: {
     logo: Logo
   }
-}
+};
 </script>
