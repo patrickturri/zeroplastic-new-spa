@@ -28,15 +28,18 @@
                         1</span>
                         <div class="self-center">Make your brand plastic free</div>
                     </div>
-                    <bar-chart class='leading-normal'/>
+                    <div class="w-4xl self-center items-center justify-center m-10">
+                        <bar-chart class='leading-normal'/>
+                    </div>
                 </li>
-                <li class="leading-normal text-4xl mb-20 flex flex-col">
+                <li class="leading-normal text-4xl mb-20 flex flex-col content-center justify-center">
                     <div class="flex flex-row">
                         <span 
                             class="rounded-full w-12 h-12 flex items-center justify-center mr-20 border-2 border-black">
                         2</span>
                         <div class="self-center">As a community, earn money while improving your green status</div>
                     </div>
+                    <img src='~/assets/img/recognition.jpeg' class='w-1/2 m-5 self-center'/>
                     
                 </li>
                 <li class="leading-normal text-4xl mb-20 flex flex-col">
