@@ -2,9 +2,7 @@
   <div>
     <hero />
     <features />
-    <teasers />
-    <prices />
-    <call-to-action />
+    <faq/>
   </div>
 </template>
 
@@ -13,7 +11,7 @@ import Hero from '@/components/Hero'
 import Features from '@/components/Features'
 import Teasers from '@/components/Teasers'
 import Prices from '@/components/Prices'
-import CallToAction from '@/components/CallToAction'
+import Faq from '@/components/Faq'
 
 export default {
   name: 'LandingPage',
@@ -22,7 +20,7 @@ export default {
     features: Features,
     teasers: Teasers,
     prices: Prices,
-    'call-to-action': CallToAction
+    'faq': Faq
   }
 }
 </script>

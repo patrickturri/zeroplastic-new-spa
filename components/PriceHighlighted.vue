@@ -32,10 +32,8 @@
 </template>
 
 <script>
-import priceMixin from '@/mixins/price'
 
 export default {
-  name: 'PriceHighlighted',
-  mixins: [priceMixin]
+  name: 'PriceHighlighted'
 }
 </script>
