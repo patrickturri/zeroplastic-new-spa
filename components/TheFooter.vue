@@ -2,7 +2,7 @@
   <footer class="bg-transparent">
     <div class="container mx-auto">
        <div class="w-full">
-          <p class="uppercase text-white-500 text-center mb-10">Copyright 2020 Company, HackZurich 2020</p>
+          <p class="uppercase text-white-500 text-center">Copyright 2020 ZeroPlastick, HackZurich 2020</p>
           
         </div>
     </div>
@@ -10,12 +10,12 @@
 </template>
 
 <script>
-import Logo from '@/components/Logo'
+import Logo from "@/components/Logo";
 
 export default {
-  name: 'TheFooter',
+  name: "TheFooter",
   components: {
     logo: Logo
   }
-}
+};
 </script>
