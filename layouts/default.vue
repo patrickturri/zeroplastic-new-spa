@@ -1,5 +1,5 @@
 <template>
-  <div class="leading-normal tracking-normal text-white gradient">
+  <div class="leading-normal tracking-normal text-white gradient h-full">
     <the-header />
     <nuxt />
     <the-footer />
@@ -28,7 +28,12 @@ html {
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+  margin: 0 auto;
   box-sizing: border-box;
+}
+html, body {
+    min-height: 100%;
+    height: 100%;
 }
 
 .gradient {

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div name="home">
     <hero-content />
     <div class="relative -mt-12 lg:-mt-24">
       <svg

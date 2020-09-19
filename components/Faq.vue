@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="faqs">
     <img src="~assets/img/wave-top.svg?inline" alt />
     <faq-content />
   </div>
