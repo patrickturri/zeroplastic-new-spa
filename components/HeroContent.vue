@@ -7,18 +7,18 @@
       <div
         class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left"
       >
-        <p class="uppercase tracking-loose w-full">What business are you?</p>
+        <p class="uppercase tracking-loose w-full">#break<b>free</b>from<b>plastic</b></p>
         <h1 class="my-4 text-5xl font-bold leading-tight">
-          Main Hero Message to sell yourself!
+          Solving the urban plastic pollution, together.
         </h1>
         <p class="leading-normal text-2xl mb-8">
-          Sub-hero message, not too long and not too short. Make it just right!
+          Over 300 million tons of plastics are produced every year. Here we present the solution to avoid being overwhelmed by all of this.
         </p>
 
         <button
           class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg"
         >
-          Subscribe
+          Begin the journey
         </button>
       </div>
       <!--Right Col-->

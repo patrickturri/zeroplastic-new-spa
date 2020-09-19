@@ -5,7 +5,8 @@
     href="#"
   >
     <!--Icon from: http://www.potlabicons.com/ -->
-    <img src='~/assets/img/logo.jpg'/>
+    <!--<img src='~/assets/img/logo.png' class='w-1/3 m-4'/>-->
+    ZeroPlastick
   </a>
 </template>
 
