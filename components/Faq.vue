@@ -87,7 +87,7 @@
       </div>
     </section>
 </div>-->
-<body class="bg-gray-100 font-display">
+<section class="font-display m-20">
   <div id="faqs">
     <div>
       <div class="mt-8 opacity-75">
@@ -247,7 +247,7 @@
           <path
             d="M1043.75,427.51514H646.71v-199.52h397.04Zm-395.04-2h393.04v-195.52H648.71Z"
             transform="translate(-156.25 -227.99512)"
-            fill="#3f3d56"
+            fill="#fff"
           />
           <path
             d="M844.08008,390.28522a16.13845,16.13845,0,1,1-16.15015-16.15A16.10482,16.10482,0,0,1,844.08008,390.28522Z"
@@ -283,24 +283,24 @@
       </div>
       <div>
         <div
-          class="mx-auto text-center px-4 mt-12 text-4xl text-indigo-900 font-semibold"
+          class="mx-auto text-center  text-white px-4 mt-12 text-4xl text-white-900 font-semibold"
         >Frequently Asked Questions (FAQ)</div>
         <dl
           class="mt-8 mx-auto max-w-screen-sm lg:max-w-screen-lg flex flex-col lg:flex-row lg:flex-wrap"
         >
-          <div class="lg:w-1/2">
+          <div class="lg:w-1/2  text-base">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold text-white"
                   >Can I participate even if I don’t have a bank account?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -321,7 +321,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -344,23 +344,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >Yes, the other means of reward are with cryptocurrencies and voucher for concerts, special events and much more available in our online shop.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white font-semibold"
                   >Why do I have to reach level three to use my credits?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -381,7 +381,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -404,23 +404,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white-700"
               >You are not a person only sporadically interested in earning some money. You are our HERO. Level three make sure you are enough motivated to perform this task properly, so that our world will exit the plastic crysis.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold"
                   >How do you sort plastic waste in the different categories (e.g., bottles)?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -441,7 +441,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -464,23 +464,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >We use old school AI :) Peer review together with our always more accurate learning model is performing object detection and classification on the pictures taken. In the long term, we will have a dataset able to train machine learning models to effectively sort plastic wastes. This will greatly improve the waste handling chain.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold"
                   >How can I make sure that there is no interest bias?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -501,7 +501,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -524,23 +524,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >Our platform is completely open source. Anybody can inspect it and even contribute to improve the project and help us make the world a better place.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold"
                   >Do I have to take a picture of any single waste?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -561,7 +561,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -584,23 +584,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >No, you can take a single picture if they are in the same location. You can earn more by telling us what do you see in those pictures with a very simple and familiar interface. When other randomly chosen peers will validate you pictures, you will receive the extra earnings.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold"
                   >When will I receive my money or virtual credits?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -621,7 +621,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -644,21 +644,21 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >After you bring plastic to the collection spots you earn credit and experience. You will be able to use them as soon as you reach level three.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
-                  <div class="text-indigo-800 font-semibold">How is plastic localized?</div>
+                  <div class="text-white-800 font-semibold">How is plastic localized?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -679,7 +679,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-whiteh-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -702,23 +702,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >User have to take a picture of the waste collected in the location it is collected. Anomaly detection algorithms will signal anomalous aggregation of wastes.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold"
                   >What are exactly the steps in the value chain?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -739,7 +739,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -762,23 +762,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >After the plastic has been collected by the user, it’s carried to one of the many plastic collection spots. There, it will be routed to one of the recycling centers, where the plastic gains new life and exits from the pollution side of the economy :). At any time, anyone can inspect our maps to know where the plastic is, how much in each step of the chain and both where it comes from and where is routed to.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold text-white"
                   >How do you make sure that collection spots are not re-using collected plastic to collect more money?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -799,7 +799,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -822,23 +822,23 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >After you bring plastic to the collection spots you earn credit and experience. You will be able to use them as soon as you reach level three.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
             <div
-              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg text-sm group"
+              class="question-and-answer select-none cursor-pointer border-2 mx-8 my-3 px-6 py-4 rounded-lg group"
             >
               <dt class="question">
                 <div class="flex justify-between">
                   <div
-                    class="text-indigo-800 font-semibold"
+                    class="text-white-800 font-semibold"
                   >This is great! How can I involve other people in this project?</div>
                   <div>
                     <svg
                       fill="currentColor"
-                      class="question-chevron group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -859,7 +859,7 @@
                     </svg>
                     <svg
                       fill="currentColor"
-                      class="question-chevron hidden group-hover:bg-gray-500 h-5 block text-indigo-800 bg-gray-400 rounded-full p-1"
+                      class="question-chevron hidden group-hover:bg-white h-5 block text-indigo-800 bg-white rounded-full p-1"
                       viewBox="0 0 20 20"
                       version="1.1"
                       xmlns="http://www.w3.org/2000/svg"
@@ -882,7 +882,7 @@
                 </div>
               </dt>
               <dd
-                class="answer hidden mt-2 leading-snug text-gray-700"
+                class="answer hidden mt-2 leading-snug text-white"
               >You can invite friends and get a special prize for your referrals. Furthermore you can take part in bigger challenges with the help of your friends.</dd>
             </div>
           </div>
@@ -905,50 +905,7 @@
       .toggleClass("hidden");
   });
   </script>
-  <div
-    class="REMOVE-THIS-ELEMENT-IF-YOU-ARE-USING-THIS-PAGE hidden treact-popup fixed inset-0 flex items-center justify-center"
-    style="background-color: rgba(0,0,0,0.3);"
-  >
-    <div class="max-w-lg p-8 sm:pb-4 bg-white rounded shadow-lg text-center sm:text-left">
-      <h3 class="text-xl sm:text-2xl font-semibold mb-6 flex flex-col sm:flex-row items-center">
-        <div class="bg-green-200 p-2 rounded-full flex items-center mb-4 sm:mb-0 sm:mr-2">
-          <svg
-            class="text-green-800 inline-block w-5 h-5"
-            fill="none"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-          >
-            <path
-              d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z"
-            />
-          </svg>
-        </div>Free TailwindCSS Component Kit!
-      </h3>
-      <p>
-        I recently released Treact, a
-        <span class="font-bold">free</span> TailwindCSS Component Kit built with React.
-      </p>
-      <p
-        class="mt-2"
-      >It has 52 different UI components, 7 landing pages, and 8 inner pages prebuilt. And they are customizable!</p>
-      <div
-        class="mt-8 pt-8 sm:pt-4 border-t -mx-8 px-8 flex flex-col sm:flex-row justify-end leading-relaxed"
-      >
-        <button
-          class="close-treact-popup px-8 py-3 sm:py-2 rounded border border-gray-400 hover:bg-gray-200 transition duration-300"
-        >Close</button>
-        <a
-          class="font-bold mt-4 sm:mt-0 sm:ml-4 px-8 py-3 sm:py-2 rounded bg-purple-700 text-gray-100 hover:bg-purple-900 transition duration-300 text-center"
-          href="https://treact.owaiskhan.me"
-          target="_blank"
-        >See Treact</a>
-      </div>
-    </div>
-  </div>
-</body>
+</section>
 </template>
 
 <script>
