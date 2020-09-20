@@ -1,8 +1,9 @@
 <template>
   <div>
     <hero />
-    <abstract />
+    <carousel/>
     <features />
+    <mobilestores />
     <faq />
   </div>
 </template>
@@ -14,6 +15,8 @@ import Features from "@/components/Features";
 import Teasers from "@/components/Teasers";
 import Prices from "@/components/Prices";
 import Faq from "@/components/Faq";
+import Carousel from '@/components/Carousel';
+import MobileStores from '@/components/MobileStores';
 
 export default {
   name: "LandingPage",
@@ -23,7 +26,9 @@ export default {
     features: Features,
     teasers: Teasers,
     prices: Prices,
-    faq: Faq
+    faq: Faq,
+    mobilestores: MobileStores,
+    carousel: Carousel
   }
 };
 </script>

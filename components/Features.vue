@@ -15,7 +15,9 @@
         headline="Transparent, distributed and reliable."
         content="Know where the plastic comes from. The differential checks provided by istantaneous GPS data during the plastic picking, and the anomaly detection system discover failure in the process."
       >
-        <img src="~assets/img/connected-world.svg?inline" alt slot="svg" />
+        <video autoplay loop alt slot="svg">
+          <source src="~assets/video/Maps.mp4" type="video/mp4">
+        </video>
       </feature-left>
         <!--
       <feature-right
@@ -45,13 +47,13 @@
         headline="Machine Learning for improved waste classification."
         content="We designed a crowdsourcing system to gather knowledge of the different kinds of wastes through the help of our users. This way, our learning algorithm will improve to the point where wastes will be optimally categorized and handled. This will set a new state of the art for waste management."
       >
-        <img src="~assets/img/connected-world.svg?inline" alt slot="svg" />
+        <img src="~assets/img/waste_detection.gif" alt slot="svg" />
       </feature-right>
       <feature-left
         headline="Growing network through gamification for job creations."
 content="The gamification of the platform allows for a rapid growth in terms of community base. This large participation leads to an incremented number of jobs created and thus a benefit for the community."
       >
-      <img src="~assets/img/travel-booking.svg?inline" alt slot="svg" />
+      <img src="~assets/img/recognition.jpeg" style="height: 500px" alt slot="svg" />
       </feature-left>
     </div>
   </section>
