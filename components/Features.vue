@@ -50,8 +50,8 @@
         <img src="~assets/img/waste_detection.gif" alt slot="svg" />
       </feature-right>
       <feature-left
-        headline="Growing network through gamification for job creations."
-content="The gamification of the platform allows for a rapid growth in terms of community base. This large participation leads to an incremented number of jobs created and thus a benefit for the community."
+        headline="Creating aware communities through gamification and rewards for actions."
+        content="The platform engages and motivates users to collect and report plastic garbage in the environment, through a layer of gamification and a system of economic rewards. The objective is to create an aware community with environment-oriented habits."
       >
       <img src="~assets/img/recognition.jpeg" style="height: 500px" alt slot="svg" />
       </feature-left>
