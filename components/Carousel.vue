@@ -5,10 +5,10 @@
             <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
             <div class="carousel-item absolute opacity-0" style="height:80vh;">
                 <div class="block h-full flex flex-row ml-32 mt-20 justify-left align-center self-center">
-                    <img src="@/assets/img/screen_1.png" style="height:700px;"/>
+                    <img src="@/assets/img/screen_1.png" style="height:70%; width: auto; margin: 0 auto;"/>
                     <div class="mt-16 ">
                         <p class="mt-16 text-5xl text-black">Why ZeroPlastic?</p>
-                        <p class="mt-12 mr-16 text-xl text-black">ZeroPlastic is a platform where businesses can finance people to collect plastic waste. In this way, companies can reduce their plastic footprint, jobs are created and the environment is safeguarded.</p>
+                        <p class="mt-12 text-xl text-black" style="margin-right: 20%">ZeroPlastic is a platform where businesses can finance people to collect plastic waste. In this way, companies can reduce their plastic footprint, jobs are created and the environment is safeguarded.</p>
                     </div>
                 </div>
             </div>
@@ -19,10 +19,10 @@
             <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
             <div class="carousel-item absolute opacity-0" style="height:80vh;">
                 <div class="block h-full flex flex-row ml-32 mt-20 justify-left align-center self-center">
-                    <img src="@/assets/img/screen_2.png" style="height:700px;"/>
+                    <img src="@/assets/img/screen_2.png" style="height:70%; width: auto; margin: 0 auto;"/>
                     <div class="mt-16 ">
                         <p class="mt-16 text-5xl text-black">The user perspective</p>
-                        <p class="mt-12 mr-16 text-xl text-black">Users of our platform are able to earn money and special offers from shops simply collecting plastic garbage around their city. Our contributions are backed by companies that are willing to offset their plastic emissions.</p>
+                        <p class="mt-12 text-xl text-black" style="margin-right: 20%">Users of our platform are able to earn money and special offers from shops simply collecting plastic garbage around their city. Our contributions are backed by companies that are willing to offset their plastic emissions.</p>
                     </div>
                 </div>
             </div>
@@ -33,10 +33,10 @@
             <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
             <div class="carousel-item absolute opacity-0" style="height:80vh;">
                 <div class="block h-full flex flex-row ml-32 mt-20 justify-left align-center self-center">
-                    <img src="@/assets/img/screen_3.png" style="height:700px;"/>
+                    <img src="@/assets/img/screen_3.png" style="height:70%; width: auto; margin: 0 auto;"/>
                     <div class="mt-16 ">
                         <p class="mt-16 text-5xl text-black">Building the future of plastic waste picking</p>
-                        <p class="mt-12 mr-16 text-xl text-black">We instruct our users to identify plastic garbage in images collected by our community. With this power, we're able to train deep learning algorithms that will enhance the state-of-the-art of the waste classification, in the near future.</p>
+                        <p class="mt-12 text-xl text-black" style="margin-right: 20%">We instruct our users to identify plastic garbage in images collected by our community. With this power, we're able to train deep learning algorithms that will enhance the state-of-the-art of the waste classification, in the near future.</p>
                     </div>
                 </div>
             </div>
