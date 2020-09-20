@@ -12,7 +12,7 @@
           Solving the urban plastic pollution, together.
         </h1>
         <p class="leading-normal text-2xl mb-8">
-          Over 300 million tons of plastics are produced every year. Here we present the solution to avoid being overwhelmed by all of this.
+          Connecting big corporates and isolated plastic pickers can really change the future of plastic waste management.
         </p>
 
         <a href="#abstract">

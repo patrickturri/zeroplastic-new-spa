@@ -405,7 +405,7 @@
               </dt>
               <dd
                 class="answer hidden mt-2 leading-snug text-white-700"
-              >You are not a person only sporadically interested in earning some money. You are our HERO. Level three make sure you are enough motivated to perform this task properly, so that our world will exit the plastic crysis.</dd>
+              >You are not a person only sporadically interested in earning some money. You are our HERO. Level three makes sure you are enough motivated to perform this task properly, so that our world will exit the plastic crysis.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
@@ -525,7 +525,7 @@
               </dt>
               <dd
                 class="answer hidden mt-2 leading-snug text-white"
-              >Our platform is completely open source. Anybody can inspect it and even contribute to improve the project and help us make the world a better place.</dd>
+              >Our platform is completely open-source. Anybody can inspect it and even contribute to improve the project and help us make the world a better place.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
@@ -585,7 +585,7 @@
               </dt>
               <dd
                 class="answer hidden mt-2 leading-snug text-white"
-              >No, you can take a single picture if they are in the same location. You can earn more by telling us what do you see in those pictures with a very simple and familiar interface. When other randomly chosen peers will validate you pictures, you will receive the extra earnings.</dd>
+              >No, you can take a single picture if they are in the same location. You can earn more by telling us what do you see in those pictures with a very simple and familiar interface. When other randomly chosen peers will validate your pictures, you will receive the extra earnings.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">
@@ -763,7 +763,7 @@
               </dt>
               <dd
                 class="answer hidden mt-2 leading-snug text-white"
-              >After the plastic has been collected by the user, it’s carried to one of the many plastic collection spots. There, it will be routed to one of the recycling centers, where the plastic gains new life and exits from the pollution side of the economy :). At any time, anyone can inspect our maps to know where the plastic is, how much in each step of the chain and both where it comes from and where is routed to.</dd>
+              >After the plastic has been collected by the user, it’s carried to one of the many plastic collection spots. There, it will be routed to one of the recycling centers, where the plastic gains new life :). At any time, anyone can inspect our maps to know where the plastic is, how much in each step of the chain and both where it comes from and where is routed to.</dd>
             </div>
           </div>
           <div class="lg:w-1/2">

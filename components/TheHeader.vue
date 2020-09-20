@@ -38,7 +38,7 @@
             <a
               class="inline-block py-2 px-4 font-bold no-underline text-black"
               href="#how_works"
-              >How does it work</a
+              >Features</a
             >
           </li>
           <li class="mr-3">
@@ -49,12 +49,14 @@
             >
           </li>
         </ul>
+        <!--
         <button
           :class="navActionClassList"
           class="mx-auto lg:mx-0 hover:underline font-bold rounded-full mt-4 lg:mt-0 py-4 px-8 shadow opacity-75"
         >
           DASHBOARD
         </button>
+        -->
       </div>
     </div>
     <hr class="border-b border-gray-100 opacity-25 my-0 py-0" />
