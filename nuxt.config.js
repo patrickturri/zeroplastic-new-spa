@@ -1,9 +1,6 @@
 export default {
 	mode: 'universal',
-	target: 'static',
-	router: {
-		base: '/zeroplastic-spa/'
-	},
+	target: 'static'
 	/*
 	 ** Headers of the page
 	 */
