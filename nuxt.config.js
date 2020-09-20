@@ -1,5 +1,9 @@
 export default {
 	mode: 'universal',
+	target: 'static',
+	router: {
+		base: '/zeroplastic-spa/'
+	},
 	/*
 	 ** Headers of the page
 	 */
@@ -17,8 +21,8 @@ export default {
 		link: [ { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' } ],
 		script: [
 			{
-				src: "https://code.jquery.com/jquery-3.2.1.min.js",
-				type: "text/javascript"
+				src: 'https://code.jquery.com/jquery-3.2.1.min.js',
+				type: 'text/javascript'
 			}
 		]
 	},
@@ -30,7 +34,7 @@ export default {
 	 ** Global CSS
 	 */
 	css: [],
-	
+
 	/*
 	 ** Plugins to load before mounting the App
 	 */

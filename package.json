@@ -14,7 +14,8 @@
 		"start": "nuxt start",
 		"generate": "nuxt generate",
 		"test": "jest",
-		"test:dev": "jest --watch"
+		"test:dev": "jest --watch",
+		"deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
 	},
 	"dependencies": {
 		"@nuxtjs/axios": "^5.12.2",
@@ -41,6 +42,7 @@
 		"jest": "^24.9.0",
 		"jest-serializer-vue": "^2.0.2",
 		"prettier": "^1.19.1",
+		"push-dir": "^0.4.1",
 		"vue-jest": "^4.0.0-beta.5"
 	}
 }
